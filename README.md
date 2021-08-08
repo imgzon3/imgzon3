@@ -3,6 +3,9 @@
 
 
 <!---
-imgzon3/imgzon3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+추후에
+내 기술 스택
+뭘 지향하는지
+블로그, 이력서 주소
+작성하기
 --->
